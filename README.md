@@ -1,6 +1,6 @@
 # easy-wordpress-mcp
 
-**The easiest way to connect Claude AI to your WordPress site.**
+**The easiest way to connect AI assitant to your WordPress site.**
 
 No plugins to install on WordPress. No config files to edit by hand. No terminal expertise needed. Claude guides you through everything.
 
